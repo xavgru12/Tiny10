@@ -5,7 +5,7 @@
 cat 'boot.wim&install.esd.tar.0'* | tar xvf - -C ../
 ```
 
-- install mkisofs
+- install mkisofs(also named genisoimage)
 ```
 sudo apt install genisoimage
 ```
